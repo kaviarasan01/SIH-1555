@@ -28,7 +28,7 @@ A web-based platform that provides an interactive and immersive experience of a 
 <img width="961" height="513" alt="image" src="https://github.com/user-attachments/assets/def35133-06ef-4394-a5fc-bcd0b5739158" />
 
 
-Dependencies
+## Dependencies
 🔹 Software & Libraries React.js, Three.js or Babylon.js Node.js, Express.js MongoDB driver or Mongoose AWS SDK (if using S3), or Firebase SDK React Router, Axios, Framer Motion (for UI/UX) Multer (for file upload in Node backend) Cloudinary (optional for image hosting)
 
 🔹 Hardware / External 3D model design software (Blender) High-quality audio/video equipment (for content creation) Cloud hosting accounts (AWS, Firebase, etc.)
